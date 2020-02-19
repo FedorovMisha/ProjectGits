@@ -12,6 +12,7 @@ namespace ProjectGit
         {
             Console.WriteLine("Hellow World");
             Console.WriteLine("Hellow Sem");
+            Console.WriteLine("Чебурек");
         }
     }
 }
